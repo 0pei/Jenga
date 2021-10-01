@@ -1,0 +1,8 @@
+APlayer 12
+BPlayer 10
+CPlayer 16
+DPlayer 2
+EPlayer 1
+Kelly 12
+KE 1
+AA 1
